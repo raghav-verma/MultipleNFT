@@ -1,0 +1,11 @@
+{
+    "name": "Chase1",
+    "description": "This is a photo of my friend's pet",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPrhyWA81iUisCkLJQVNifoeQ2zdeTWLEVAAteK1pBzUT",
+    "attributes": [
+      {
+        "trait_type": "Doggy",
+        "value": "Black"
+      },
+    ]
+  }

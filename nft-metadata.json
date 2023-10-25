@@ -1,0 +1,12 @@
+{
+    "name": "Chase",
+    "description": "This is a description of my awesome NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPezhb8SxpgyG2FS9rxQ8aYgyL9cVYh6VYnGxe4zFkFVK",
+    "attributes": [
+      {
+        "trait_type": "Doggy",
+        "value": "Black"
+      },
+    ]
+  }
+  

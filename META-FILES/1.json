@@ -1,0 +1,11 @@
+{
+    "name": "1",
+    "description": "Cristiano Ronaldo ki photo",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPAxW4wuwX7SKyp1mdQjd2uCGhRdSfSnRPDT9GcUjwQSg",
+    "attributes": [
+      {
+        "trait_type": "Football",
+        "value": "CR7"
+      },
+    ]
+  }
